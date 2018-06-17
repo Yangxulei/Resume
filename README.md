@@ -5,7 +5,6 @@
 * 博客：[http://uqlai.cn](http://uqlai.cn) Github：[http://github.com/Yangxulei](http://github.com/Yangxulei)
 * 联系方式：<span style="color:#ab4642">15822077305</span> ；Email: <span style="color:#ab4642">uqraiyang@gmail.com</span>  
 
--- 
 ### 实习经历
 
 ##### 天津蚁尚科技有限公司（2015.12.1~2016.4.1）
@@ -24,7 +23,7 @@
 
 - 
     - [产品需求文档](https://docs.qq.com/doc/BV4m9Z15jB5o3RWjCF4orPdr3kA6S02olmLP1) 
-    - [原型图地址](https://github.com/Yangxulei/-)
+    - [原型图地址](https://yangxulei.github.io/-/#g=1&p=%E4%BA%A7%E5%93%81%E8%B4%AD%E4%B9%B0%E6%B5%81%E7%A8%8B)
 
 ##### 亿诺智汇外汇(2018.2.1-2018.5.1)
 - 【比赛项目概要】: 参加2018年中国大学服务外包大赛的项目，该项目精准的外汇市场7*24小时新闻直播，新闻概要提取分析，辅助决策，投资者新手教育，模拟操作的辅助外汇平台；  
